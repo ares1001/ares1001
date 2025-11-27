@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mi nombre es Ariel Galeppi 👋
 
 
 # 💻 Tech Stack:
